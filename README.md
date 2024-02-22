@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fair allocation algorithms, making fun websites.<br>🌱 I’m currently learning Kernel development, Queuing theory, Analysis. <br>💬 Ask me why I love Java. <br>⚡ Fun fact: I am very passionate about Algorithms and Complexity Theory.
+🔭 I’m currently working on fair allocation algorithms, making fun websites.<br>🌱 I’m currently learning Kernel development, Queuing theory, Real Analysis. <br>💬 Ask me why Java is the best programming language ever created. <br>⚡ Fun fact: John von Neumann went to college simultaneously in Budapest and Berlin, showing up in Budapest only when it was time for an exam, which he passed easily.
 
 
 ## 🌐 Socials:
