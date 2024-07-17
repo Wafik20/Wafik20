@@ -1,5 +1,4 @@
-Probably Creating A New Sass Application 
-
+Galois but alive and shit at algebra
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafik-yaakoub/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wafik_wt) 
