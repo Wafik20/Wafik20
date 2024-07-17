@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on fair allocation algorithms, making fun websites.<br>🌱 I’m currently learning Kernel development, Queuing theory, and brushing up on my Real Analysis. <br>💬 Ask me about my profile picture :).
+Probably Creating A New Sass Application 
 
 
 ## 🌐 Socials:
